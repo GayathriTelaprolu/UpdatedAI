@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  mysql_db:
+    image: mysql:latest
+    container_name: mysql_db
+    environment:
+      MYSQL_ROOT_PASSWORD: root_password
+      MYSQL_DATABASE: mydatabase
+      MYSQL_USER: myuser
+      MYSQL_PASSWORD: mypassword
+    ports:
+      - "3307:3306"  # Local machine port 3307 is mapped to container's MySQL port 3306
+    volumes:
+      - ./mysql_data:/var/lib/mysql  # Persist MySQL data

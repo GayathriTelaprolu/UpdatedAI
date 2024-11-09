@@ -1,0 +1,7 @@
+product_id,name,brand,price,quantity_in_stock,category_id,description,ingredients,size,gender,created_at,updated_at
+1,Shampoo,BrandA,12.99,50,1,A nourishing shampoo.,"Water, Sodium Laureth Sulfate, Glycerin",500ml,Unisex,2024-10-01 10:00:00,2024-10-01 10:00:00
+2,Conditioner,BrandB,8.99,30,2,A moisturizing conditioner.,"Water, Glycerin, Fragrance",300ml,Female,2024-10-01 11:00:00,2024-10-01 11:00:00
+3,Sneakers,BrandC,65.5,100,3,Comfortable running sneakers.,"Leather, Rubber, Cotton",42,Male,2024-10-02 09:00:00,2024-10-02 09:00:00
+4,Perfume,BrandD,45.0,20,4,A floral fragrance perfume.,"Alcohol, Fragrance, Aqua",100ml,Female,2024-10-02 15:00:00,2024-10-02 15:00:00
+5,T-Shirt,BrandE,25.0,200,5,Cotton T-shirt with a modern design.,"Cotton, Polyester",L,Male,2024-10-03 14:00:00,2024-10-03 14:00:00
+6,Face Cream,BrandF,18.5,60,6,Moisturizing face cream for dry skin.,"Aqua, Glycerin, Shea Butter",50ml,Unisex,2024-10-04 08:00:00,2024-10-04 08:00:00

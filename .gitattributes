@@ -1,0 +1,9 @@
+   # Set default behavior to automatically normalize line endings
+   * text=auto
+
+   # Specify that certain file types should use LF
+   *.pdf binary
+   *.csv text eol=lf
+   *.ipynb text eol=lf
+   *.txt text eol=lf
+   *.py text eol=lf

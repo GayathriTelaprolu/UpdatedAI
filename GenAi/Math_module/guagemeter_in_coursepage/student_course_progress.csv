@@ -1,0 +1,19 @@
+student_id,course_title,total_modules,week,expected_modules,completed_modules,progress_status
+1,Introduction to Python,5,1,1,1,on_track
+1,Introduction to Python,5,2,"1,2","1,2",on_track
+1,Introduction to Python,5,3,"1,2,3","1,2",behind
+1,Introduction to Python,5,4,"1,2,3,4","1,2,4",behind
+1,Introduction to Python,5,5,"1,2,3,4,5","1,2,4",behind
+1,Introduction to Python,5,6,"1,2,3,4,5","1,2,4,5",behind
+2,Advanced SQL Techniques,8,1,1,1,on_track
+2,Advanced SQL Techniques,8,2,"1,2","1,2",on_track
+2,Advanced SQL Techniques,8,3,"1,2,3,4","1,2,3",behind
+2,Advanced SQL Techniques,8,4,"1,2,3,4,5,6","1,2,3,4",behind
+2,Advanced SQL Techniques,8,5,"1,2,3,4,5,6,7,8","1,2,3,4,5,6",behind
+2,Advanced SQL Techniques,8,6,"1,2,3,4,5,6,7,8","1,2,3,4,5,6,8",behind
+3,Web Development Basics,6,1,1,1,on_track
+3,Web Development Basics,6,2,"1,2","1",on_track
+3,Web Development Basics,6,3,"1,2,3","1",on_track
+3,Web Development Basics,6,4,"1,2,3,4","1,2,3,4",on_track
+3,Web Development Basics,6,5,"1,2,3,4,5","1,2,3,4",behind
+3,Web Development Basics,6,6,"1,2,3,4,5,6","1,2,3,4,6",behind

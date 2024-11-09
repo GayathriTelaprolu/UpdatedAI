@@ -1,0 +1,201 @@
+Airline,Flight Number,Origin,Destination
+Air France,AI1493,Seoul,Dubai
+KLM,KL8278,Dubai,Chicago
+EVA Air,EV7654,Chicago,New York
+United Airlines,UN5602,Tokyo,Los Angeles
+British Airways,BR6303,Frankfurt,Tokyo
+British Airways,BR9808,Tokyo,San Francisco
+Qatar Airways,QA256,San Francisco,Los Angeles
+Etihad Airways,ET5396,Toronto,Singapore
+Air France,AI3792,Chicago,Los Angeles
+Lufthansa,LU9888,New York,San Francisco
+United Airlines,UN1832,Paris,San Francisco
+Air France,AI1294,London,Amsterdam
+Qantas,QA7111,London,Sydney
+Southwest Airlines,SO3935,Bangkok,Sydney
+American Airlines,AM1989,Los Angeles,New York
+British Airways,BR8542,Seoul,New York
+Turkish Airlines,TU2754,Frankfurt,Sydney
+Japan Airlines,JA7019,Sydney,Los Angeles
+Singapore Airlines,SI2756,Amsterdam,Madrid
+Japan Airlines,JA6634,Seoul,London
+Japan Airlines,JA8149,London,New York
+Qatar Airways,QA4404,Frankfurt,Hong Kong
+Cathay Pacific,CA9049,Madrid,Seoul
+Qantas,QA6799,Beijing,Hong Kong
+ANA,AN4114,New York,Beijing
+Emirates,EM4671,Madrid,New York
+Delta Air Lines,DE4530,Chicago,San Francisco
+Emirates,EM5532,Paris,Bangkok
+Air France,AI6832,Amsterdam,San Francisco
+Japan Airlines,JA4834,Paris,Los Angeles
+ANA,AN9647,Istanbul,Seoul
+EVA Air,EV5544,San Francisco,Chicago
+Etihad Airways,ET7255,New York,Toronto
+Southwest Airlines,SO6270,Dubai,Beijing
+Turkish Airlines,TU4837,Amsterdam,Singapore
+Qantas,QA834,San Francisco,New York
+United Airlines,UN2016,Chicago,Bangkok
+United Airlines,UN2237,Amsterdam,Frankfurt
+Cathay Pacific,CA5510,Tokyo,Toronto
+Emirates,EM4577,Singapore,Amsterdam
+Air Canada,AI8108,Paris,Beijing
+Lufthansa,LU4936,Los Angeles,Amsterdam
+ANA,AN5183,Bangkok,Hong Kong
+American Airlines,AM3490,London,Los Angeles
+Turkish Airlines,TU344,Tokyo,Beijing
+Air China,AI5550,London,Amsterdam
+Air Canada,AI8539,Madrid,Istanbul
+Turkish Airlines,TU3930,New York,Chicago
+Delta Air Lines,DE2001,Toronto,Beijing
+Air Canada,AI9117,Amsterdam,Tokyo
+Cathay Pacific,CA8960,Hong Kong,Tokyo
+Lufthansa,LU9979,Seoul,Singapore
+EVA Air,EV1923,Singapore,San Francisco
+Southwest Airlines,SO6984,Hong Kong,Tokyo
+Emirates,EM1010,Tokyo,San Francisco
+United Airlines,UN7723,Tokyo,San Francisco
+Lufthansa,LU2910,Amsterdam,Hong Kong
+Japan Airlines,JA4427,Amsterdam,Singapore
+American Airlines,AM4233,Frankfurt,San Francisco
+American Airlines,AM416,Toronto,Bangkok
+Cathay Pacific,CA8506,Tokyo,Chicago
+KLM,KL6312,Madrid,Sydney
+Emirates,EM6983,Amsterdam,Frankfurt
+Lufthansa,LU2632,Dubai,Chicago
+Qatar Airways,QA1758,Seoul,Paris
+Turkish Airlines,TU7964,Bangkok,Seoul
+Air Canada,AI4720,New York,Istanbul
+Etihad Airways,ET5736,Seoul,New York
+Japan Airlines,JA1775,Sydney,Istanbul
+Cathay Pacific,CA8809,Istanbul,Seoul
+Emirates,EM7393,London,Amsterdam
+United Airlines,UN626,Beijing,London
+Singapore Airlines,SI3896,Istanbul,Seoul
+Qatar Airways,QA8693,Tokyo,Hong Kong
+Cathay Pacific,CA4684,Rome,Frankfurt
+Qantas,QA5318,San Francisco,Tokyo
+Cathay Pacific,CA5063,Seoul,Amsterdam
+Turkish Airlines,TU6517,Beijing,Toronto
+Delta Air Lines,DE9655,Frankfurt,Paris
+Singapore Airlines,SI4325,Los Angeles,Bangkok
+Lufthansa,LU2031,Dubai,Chicago
+ANA,AN4453,Los Angeles,Sydney
+American Airlines,AM8441,Beijing,San Francisco
+Cathay Pacific,CA430,Dubai,Paris
+Japan Airlines,JA7949,Chicago,New York
+KLM,KL1644,Singapore,Rome
+Japan Airlines,JA9900,Seoul,Tokyo
+EVA Air,EV4776,Sydney,Seoul
+KLM,KL6532,Toronto,Dubai
+Etihad Airways,ET589,San Francisco,Paris
+KLM,KL5100,Beijing,Tokyo
+Air France,AI7164,Dubai,Beijing
+KLM,KL3172,Sydney,Beijing
+ANA,AN7360,Rome,Beijing
+Emirates,EM1949,Singapore,Beijing
+United Airlines,UN1963,Los Angeles,Rome
+Air France,AI7554,Frankfurt,Tokyo
+ANA,AN3229,Los Angeles,Amsterdam
+Cathay Pacific,CA3815,San Francisco,New York
+Cathay Pacific,CA2115,Singapore,Amsterdam
+Cathay Pacific,CA2201,Madrid,Bangkok
+Turkish Airlines,TU7204,Singapore,Istanbul
+Lufthansa,LU5065,New York,Dubai
+Singapore Airlines,SI1283,Chicago,London
+KLM,KL676,Frankfurt,Paris
+Cathay Pacific,CA7141,Sydney,Madrid
+Air Canada,AI4658,Frankfurt,Beijing
+Air France,AI6140,Singapore,Beijing
+EVA Air,EV4846,Beijing,Sydney
+Japan Airlines,JA8422,Toronto,Hong Kong
+Southwest Airlines,SO9222,New York,Amsterdam
+British Airways,BR8822,Sydney,Frankfurt
+Southwest Airlines,SO9244,San Francisco,Chicago
+Turkish Airlines,TU4435,New York,Seoul
+British Airways,BR9937,Beijing,Rome
+Etihad Airways,ET9094,New York,Toronto
+Singapore Airlines,SI1303,Dubai,Sydney
+ANA,AN6010,Dubai,Singapore
+Delta Air Lines,DE8513,New York,Istanbul
+ANA,AN2359,Los Angeles,Dubai
+Japan Airlines,JA8841,Tokyo,Chicago
+Lufthansa,LU7212,Sydney,Dubai
+Qatar Airways,QA8051,Tokyo,Amsterdam
+Lufthansa,LU1570,Seoul,Sydney
+Qatar Airways,QA3071,Beijing,Istanbul
+Cathay Pacific,CA3662,Tokyo,Paris
+Cathay Pacific,CA2234,Toronto,Frankfurt
+Air China,AI748,Los Angeles,Amsterdam
+Turkish Airlines,TU5300,Frankfurt,Singapore
+KLM,KL8456,Rome,Chicago
+Etihad Airways,ET9172,Singapore,Rome
+Japan Airlines,JA1566,Frankfurt,Toronto
+Southwest Airlines,SO2667,London,New York
+Qantas,QA8175,Amsterdam,Los Angeles
+Cathay Pacific,CA2070,San Francisco,Los Angeles
+Air Canada,AI4450,Sydney,Beijing
+Delta Air Lines,DE8252,Seoul,Tokyo
+Qatar Airways,QA3124,Seoul,Tokyo
+Japan Airlines,JA7869,Paris,Madrid
+Singapore Airlines,SI7092,Singapore,Bangkok
+Southwest Airlines,SO8612,Frankfurt,Madrid
+Japan Airlines,JA6052,Dubai,Istanbul
+Emirates,EM5073,Rome,Dubai
+Air Canada,AI2355,Singapore,Los Angeles
+Qantas,QA7814,Seoul,Rome
+Emirates,EM7711,Beijing,Los Angeles
+Emirates,EM675,Beijing,Hong Kong
+Qantas,QA5530,Los Angeles,San Francisco
+British Airways,BR2039,Los Angeles,Madrid
+Cathay Pacific,CA4261,Chicago,London
+Lufthansa,LU6580,Toronto,Amsterdam
+Delta Air Lines,DE5228,Hong Kong,New York
+Etihad Airways,ET576,Dubai,Beijing
+Delta Air Lines,DE1637,Hong Kong,Istanbul
+United Airlines,UN5990,Seoul,San Francisco
+Air Canada,AI770,Los Angeles,Amsterdam
+ANA,AN4262,San Francisco,Singapore
+United Airlines,UN9861,Sydney,Istanbul
+Southwest Airlines,SO6850,San Francisco,Amsterdam
+KLM,KL8687,Beijing,Toronto
+Lufthansa,LU6277,Sydney,Los Angeles
+Cathay Pacific,CA1978,Bangkok,Chicago
+Southwest Airlines,SO2794,Seoul,Bangkok
+ANA,AN9903,Seoul,Madrid
+American Airlines,AM1734,Istanbul,Los Angeles
+Emirates,EM3218,Beijing,Dubai
+Lufthansa,LU3830,Seoul,Tokyo
+ANA,AN570,Chicago,Dubai
+Delta Air Lines,DE8146,Frankfurt,Los Angeles
+Cathay Pacific,CA8267,Amsterdam,Hong Kong
+Air Canada,AI9159,Frankfurt,Hong Kong
+Delta Air Lines,DE9147,Los Angeles,New York
+Qatar Airways,QA3644,Bangkok,Frankfurt
+Emirates,EM8002,Dubai,Amsterdam
+Qantas,QA2392,Rome,Istanbul
+Qantas,QA1633,Sydney,Chicago
+ANA,AN413,Amsterdam,Tokyo
+Singapore Airlines,SI6533,Sydney,Bangkok
+Southwest Airlines,SO5730,Paris,Sydney
+Southwest Airlines,SO6230,Istanbul,Singapore
+Singapore Airlines,SI3710,Rome,Tokyo
+United Airlines,UN8948,Los Angeles,Beijing
+Japan Airlines,JA2298,San Francisco,Hong Kong
+United Airlines,UN1745,Rome,Hong Kong
+Singapore Airlines,SI2635,Paris,Chicago
+American Airlines,AM4066,New York,Rome
+Emirates,EM5672,Hong Kong,Istanbul
+Delta Air Lines,DE547,New York,Sydney
+Air China,AI5857,Tokyo,Frankfurt
+Southwest Airlines,SO5149,Tokyo,Dubai
+Lufthansa,LU1607,Frankfurt,Sydney
+EVA Air,EV972,Sydney,Rome
+Lufthansa,LU8186,Beijing,Toronto
+Japan Airlines,JA7397,Paris,San Francisco
+United Airlines,UN8940,San Francisco,Dubai
+American Airlines,AM7103,Frankfurt,Dubai
+Air France,AI2737,San Francisco,Chicago
+British Airways,BR418,Seoul,Beijing
+Air France,AI9691,New York,Singapore
+Emirates,EM8214,Paris,Bangkok
