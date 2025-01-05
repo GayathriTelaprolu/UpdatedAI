@@ -1,0 +1,11 @@
+ ../Agent/
+        ../Deep_learning/
+        ../NLP/classification.py
+        ../NLP/dogandcat.jpeg
+        ../NLP/highlighted_dogs_yolo.jpeg
+        ../NLP/highlighted_dogs_yolo_improved.jpeg
+        ../NLP/yolov8m.pt
+        ../NLP/yolov8n.pt
+        ../NLP/yolov8x.pt
+        ../phidata/
+        ../../text.txt
