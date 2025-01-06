@@ -1,0 +1,107 @@
+Git is a distributed version control system used to track changes in source code and manage collaborative work on software development projects. It enables developers to keep a history of all changes made to their files, collaborate with others efficiently, and revert back to earlier versions if necessary.
+All these methods are scalable, but the choice of method depends on your specific use case: whether you need precision, efficiency, or simplicity in detecting and tracking changes in the file.
+
+
+Questions Asked Recently
+Foreign students need to apply for an F1 Visa to pursue their studies in the United States.
+Interview is the most important step of the F1 visa application process. You must be prepared in
+advance to pass your interview as an international student applying for a F1 student visa.
+Preparing for F1 visa interview questions and answers will help you secure admission in a
+college or university in the US.
+Most common F1 visa interview questions and answers
+It may comfort you to know that the consular officers usually ask similar questions to every visa
+applicant. Most US F1 visa interview questions will be based on the five categories:
+● Study plans
+● University choice
+● Academic capability
+● Financial stability
+● Post-graduation plans
+Here are some of possible F1 student visa interview questions and answers:
+Common study plan questions and answers for US F1 visa interview
+Q. Why choose the US for study? Why not the UK, Canada or Australia?
+The interviewer would like to know about your choice of the US for higher education. You need
+to explain why the United States is the best choice for higher education among students from
+around the world and it has many of the world’s best universities. Tell the interviewer that US
+universities offer a more flexible education system, cultural diversity, research opportunities and
+top-ranked programs. You can also highlight key features like world ranking, reputed faculties
+and alumni profile, etc.
+Q. Why don’t you continue your education in your home country?
+Here you can tell some marked differences in the quality of education in your country and the
+US. For example, your dream is to receive a degree from a top-ranked university and a large
+number of world-class universities and institutions are in the US. You can also talk about the
+subject in which you want to pursue your education further is not available in your country, if
+applicable. Moreover, you can elaborate on the differences in facilities, course structure,
+faculties, etc. between universities in your country and the United States.
+Q. What is the course and the degree you are planning to study?
+Tell the interviewer about your area of study you want to major in. For example, if you want to
+earn a degree in economics, you can discuss how you want to make an impact in the economic
+development of your country or the world. If you want to major in computer science, you can tell
+how you want to bring about the changes in financial or healthcare industries through
+technology. You need to demonstrate the confidence to prove that you are a worthy student to
+study in the US.
+Q. Have you ever been to the US before?
+Give the answer honestly. If you have visited the United States before, tell the interviewer the
+reason behind your trips i.e. tourism, educational training, medical reasons, etc. If you have
+never been to the US before, say that you didn’t get the chance to travel or study there.
+Common university related US F1 visa interview questions and answers
+Q. Why did you apply to this university?
+Explain confidently why the university you have chosen is the best option to study your major.
+You should be able to explain how you benefit from the best features of the university such as
+ranking of the university, faculty, programs, student organizations, and a lot more. If you don’t
+know much about the university, you must conduct some research before your visa interview.
+Q. How many colleges/ universities did you apply to?
+If your application has not been accepted by some of the colleges you applied to, be honest and
+give straightforward answers to the visa officer. If you lie, the visa officer will somehow find out,
+which may lead to dire consequences, maybe your visa application rejection.
+Q. Where is your school located?
+You need to simply mention the city or town where the college/ institution you have secured
+admission in is located. If you have done some research, you can also briefly mention facts
+about the location. For example, you can talk about any popular thing or person in the city. It will
+convince the visa officer that you have done your research.
+F1 student visa interview questions related to academic history and previous
+achievements
+The visa officer would like to know your academic background to ensure that you are capable of
+being successful in your studies. He/she may ask you to share your previous transcripts and
+English language proficiency level. Here are common academic history questions and answers:
+Query: You can then query the Chroma DB for relevant information, and it will return similar chunks, including the new content.
+Q. What are your test scores?
+You will have to share the results of each test you took, including English language proficiency
+level tests like TOEFL, IELTS as well as standardized tests (such as GRE, GMAT and SAT).
+Q. How proficient are you in English speaking and writing?
+Your TOEFL or IELTS scores demonstrate your ability to speak, read, write and understand the
+English language. You can share your TOEFL and IELTS scores with the interviewer. Tell the
+visa officer that you look forward to honing your English-speaking skills while living in the US for
+your studies.
+Recommendations for best beta results:
+
+Mixtral performs best at generating JSON, followed by Gemma, then Llama
+Use pretty-printed JSON instead of compact JSON
+Keep prompts concise
+Q. Can you show your educational records?
+You should carry all your important documents with you at your visa interview, including your
+school results, passport, F1 visa application payment receipt, and a copy of your visa photo and
+admission letter from the college or university where you have secured admission.
+Common financial questions and answers
+Listed below are the common US F1 visa interview questions the visa interviewer may ask you
+about your financial status.
+Q. How do you plan to fund your education in the US?
+Explain how you plan to cover your tuition fees and living expenses while you are enrolled at a
+university in the US. If you have enough savings for the entire period of your stay in the United
+States you can show that to the consular officer.
+Q. Who is sponsoring your educational expenses?
+If you have won a scholarship to study in the US, share the same with the visa consular. If your
+parents are sponsoring you, mention their names. If someone else is sponsoring you, mention
+their name and relationship you share with them.
+Q. What does your sponsor do?
+By asking this question, the interviewer wants to know if your sponsor is really capable of
+funding your expenses. Before you attend the interview, ensure that you have fair knowledge
+about your sponsor’s profession and income sources.
+Q. Are you planning to work while you are studying in the US?
+You can work part time on campus for a maximum of 20 hours each week when your academic
+term is in session and full time during academic breaks. However, tell the visa officer that you
+would like to focus on your studies.
+
+Challenges in natural language processing involve tasks such as text classification, sentiment analysis, and machine translation.
+Mixtral performs best at generating JSON, followed by Gemma, then Llama
+Use pretty-printed JSON instead of compact JSON
+Keep prompts concise
