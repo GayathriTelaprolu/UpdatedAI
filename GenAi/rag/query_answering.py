@@ -2,9 +2,7 @@ import requests
 from pymongo import MongoClient
 from sentence_transformers import SentenceTransformer, util
 
-# MongoDB Configuration
-MONGO_USERNAME = "admin"
-MONGO_PASSWORD = "password"
+
 MONGO_HOST = "localhost"
 MONGO_PORT = 27017
 MONGO_DB = "text_chunks_db"
@@ -16,17 +14,18 @@ GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # Load SentenceTransformer for retrieval
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
-
+connection_string = f"mongodb://{MONGO_HOST}:{MONGO_PORT}/"
 
 # Step 1: Connect to MongoDB
 def connect_to_mongo():
-    client = MongoClient(f"mongodb://{MONGO_USERNAME}:{MONGO_PASSWORD}@{MONGO_HOST}:{MONGO_PORT}/")
+    client = MongoClient(connection_string)
     db = client[MONGO_DB]
     collection = db[MONGO_COLLECTION]
     return collection
 
 
 # Step 2: Retrieve Relevant Chunks
+
 def retrieve_relevant_chunks(query, collection, top_k=3):
     # Retrieve all chunks from MongoDB
     chunks = [doc["chunk"] for doc in collection.find()]
@@ -43,6 +42,8 @@ def retrieve_relevant_chunks(query, collection, top_k=3):
     relevant_chunks = [(chunks[idx], scores[idx].item()) for idx in top_results.indices]
 
     return relevant_chunks
+
+
 
 
 # Step 3: Generate Answer with Groq API
@@ -111,8 +112,8 @@ def main():
     # Retrieve relevant chunks
     print("\nRetrieving relevant chunks...")
     relevant_chunks = retrieve_relevant_chunks(query, collection, top_k=3)
-    for idx, (chunk, score) in enumerate(relevant_chunks, 1):
-        print(f"Chunk {idx}: {chunk[:100]}... (Score: {score:.4f})")
+    #for idx, (chunk, score) in enumerate(relevant_chunks, 1):
+    #   print(f"Chunk {idx}: {chunk[:100]}... (Score: {score:.4f})")
 
     # Combine relevant chunks into a context
     context = " ".join([chunk for chunk, _ in relevant_chunks])
