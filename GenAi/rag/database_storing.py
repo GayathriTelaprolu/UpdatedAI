@@ -6,9 +6,7 @@ import nltk
 nltk.download('punkt')
 nltk.download('punkt_tab')  # Explicitly download `punkt_tab`
 
-# MongoDB Configuration
-MONGO_USERNAME = "admin"  # Replace with your MongoDB username
-MONGO_PASSWORD = "password"  # Replace with your MongoDB password
+
 MONGO_HOST = "localhost"  # Docker container's host
 MONGO_PORT = 27017  # Default MongoDB port
 MONGO_DB = "text_chunks_db"  # Database name
@@ -50,10 +48,11 @@ def cluster_sentences(sentences, embeddings, num_clusters=5):
 
     chunks = [" ".join(cluster) for cluster in clusters.values()]
     return chunks
-
+connection_string = f"mongodb://{MONGO_HOST}:{MONGO_PORT}/"
 # Step 5: Connect to MongoDB
 def connect_to_mongo():
-    client = MongoClient(f"mongodb://{MONGO_USERNAME}:{MONGO_PASSWORD}@{MONGO_HOST}:{MONGO_PORT}/")
+    # Include authSource in the connection string
+    client = MongoClient(connection_string )
     db = client[MONGO_DB]
     collection = db[MONGO_COLLECTION]
     return collection
